@@ -1,3 +1,5 @@
+#side car container will run along with the main application.
+
 apiVersion: v1
 kind: Pod
 metadata:
